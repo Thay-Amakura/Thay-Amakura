@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thay-Amakura
+- 👋 Hi, I’m @Thaynna-Rodrigues
 - 👀 I’m interested in aprender programaçao
 - 🌱 I’m currently learning programaçao na linguagem C
 - 💞️ I’m looking to collaborate on ...
