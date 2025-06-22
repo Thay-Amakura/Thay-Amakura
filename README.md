@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thaynna-Rodrigues
 - 👀 I’m interested in aprender programaçao
-- 🌱 I’m currently learning programaçao na linguagem C
+- 🌱 I’m currently learning programaçao em Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thaynna.rodrigues18@hotmail.com
 - 😄 Pronouns: Ela/dela
