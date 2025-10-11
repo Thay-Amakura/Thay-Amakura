@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-End`**
 
-Me chamo Thaynna Rodrigues, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando engenharia de Software na Unicesumar e faço o curso Especialicação Back-end na Alura em parceria com a Oracle.
+Me chamo Thaynna Rodrigues, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na Estácio e faço o curso Especialicação Back-end na Alura em parceria com a Oracle.
 
 <p align="left">
     <a href="https://github.com/Thay-Amakura?tab=repositories&sort=stargazers">
